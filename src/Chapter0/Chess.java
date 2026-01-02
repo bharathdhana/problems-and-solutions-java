@@ -1,3 +1,5 @@
+package Chapter0;
+
 public class Chess {
 
     // Queen

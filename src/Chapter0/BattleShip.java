@@ -1,3 +1,5 @@
+package Chapter0;
+
 import java.util.Arrays;
 import java.util.Scanner;
 

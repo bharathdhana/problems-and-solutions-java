@@ -1,4 +1,4 @@
-import com.sun.security.jgss.GSSUtil;
+package Chapter0;
 
 public class GameOfLife {
 

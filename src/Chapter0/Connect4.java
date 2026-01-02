@@ -1,3 +1,5 @@
+package Chapter0;
+
 import java.util.Scanner;
 
 class Connect4 {
